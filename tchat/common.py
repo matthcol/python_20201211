@@ -1,0 +1,4 @@
+def initCommon():
+    # TODO
+    pass
+
